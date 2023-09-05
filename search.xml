@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>最害怕的一集</title>
+      <link href="/2023/09/06/%E6%9C%80%E5%AE%B3%E6%80%95%E7%9A%84%E4%B8%80%E9%9B%86/"/>
+      <url>/2023/09/06/%E6%9C%80%E5%AE%B3%E6%80%95%E7%9A%84%E4%B8%80%E9%9B%86/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本来是想给网站加一个音乐播放器的功能的，但是网上的教程太老了，上传网站之后直接人傻了：啥都没有了，一片空白、幸好聪明の润把那些代码一条条敲回来了，要不然网站又要从头开始了（快进到躲在被子里掉小珍珠），这下不得不狠狠佩服自己力。<br>一个教训就是网站的本地仓库要定期存档，没要不然寄了都没地方哭。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于hexo博客的更新</title>
       <link href="/2023/09/05/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%9B%B4%E6%96%B0/"/>
       <url>/2023/09/05/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%9B%B4%E6%96%B0/</url>
@@ -68,9 +93,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -79,9 +104,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -101,9 +126,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
