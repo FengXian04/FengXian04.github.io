@@ -21,7 +21,7 @@
       <link href="/2023/09/05/2023.9.5%20%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/09/05/2023.9.5%20%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h2><h1 id="以后我会慢慢学习对自己的博客进行完善、更新"><a href="#以后我会慢慢学习对自己的博客进行完善、更新" class="headerlink" title="以后我会慢慢学习对自己的博客进行完善、更新"></a>以后我会慢慢学习对自己的博客进行完善、更新</h1><p>这是我的学习记录，生活记录</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h2><p>以后我会慢慢学习对自己的博客进行完善、更新<br>这是我的学习记录，生活记录</p>]]></content>
       
       
       
@@ -30,34 +30,12 @@
     
   
   
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
     
     
     <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -77,9 +55,31 @@
     
     
     <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
